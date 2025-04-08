@@ -11,7 +11,7 @@ struct RestaurentListView: View {
     var listNames = ["ABC","ABCD","ABCDE","AABB","AB","AABBCCDDEE","MADHU SUDHAN RAO","RAMYA","MALLIKHARJUNA RAO","KUSUMA KUMARI LAXMI"]
     var listPlaces = ["First","Second","Third","Fourth","Fifth","Sixth","Seventh","Eight","Nighth","Ten"]
     var listLocation = ["Hong Kong","Hong Kong","Sydney","Sydney","London  London London","London","New York","London","Sydney","London"]
-    var images = ["B1","B1","B1","B1","B1","B1","B1","B1","B1","B1"]
+    var images = ["B1","B1","G1","G1","B1","G1","B1","G1","B1","G1"]
     var body: some View {
         NavigationView {
             List {
